@@ -4,7 +4,7 @@ import datetime
 
 
 root = Tk()
-root.title("app gay")
+root.title("app tinh nam sinh")
 root.minsize(100, 100)  
 root.geometry("300x300+50+50")
 root.configure(background="pink")
